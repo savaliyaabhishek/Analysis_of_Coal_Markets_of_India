@@ -1,0 +1,16 @@
+Rowid,Country,State lgd code,State,Year,Coal type,Open cast mines,Underground mines,Mixed mines
+1,India,1,Jammu And Kashmir,2019-20,Coal,0.000000000000000,1.951317879300922,0.000000000000000
+2,India,8,Rajasthan,2019-20,Lignite,5,,
+3,India,9,Uttar Pradesh,2019-20,Coal,5,0,0
+4,India,12,Arunachal Pradesh,2019-20,Coal,0,0,0
+5,India,18,Assam,2019-20,Coal,2,1,0
+6,India,19,West Bengal,2019-20,Coal,17,43,10
+7,India,20,Jharkhand,2019-20,Coal,74,33,12
+8,India,21,Odisha,2019-20,Coal,21,8,0
+9,India,22,Chhattisgarh,2019-20,Coal,24,29,1
+10,India,23,Madhya Pradesh,2019-20,Coal,22,36,2
+11,India,24,Gujarat,2019-20,Lignite,10,,
+12,India,27,Maharashtra,2019-20,Coal,38,16,0
+13,India,33,Tamil Nadu,2019-20,Lignite,3,,
+14,India,36,Telangana,2019-20,Coal,19,27,0
+15,India,37,Ladakh,2019-20,Coal,0.0000000000000000,0.0486821206990772,0.0000000000000000

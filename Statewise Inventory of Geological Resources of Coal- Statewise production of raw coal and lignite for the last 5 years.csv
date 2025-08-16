@@ -1,0 +1,76 @@
+Rowid,Country,State lgd code,State,Year,Coal type,Quantity of coal and lignite produced,Value of coal and lignite produced
+1,India,1,Jammu And Kashmir,2015-16,Coal,0.012683566215455993,26.9281867343527236
+2,India,1,Jammu And Kashmir,2016-17,Coal,0.00975658939650461,20.7815354145548193
+3,India,1,Jammu And Kashmir,2017-18,Coal,0.013659225155106454,30.3429930231293371
+4,India,1,Jammu And Kashmir,2018-19,Coal,0.012683566215455993,25.1720006429818938
+5,India,1,Jammu And Kashmir,2019-20,Coal,0.013659225155106454,25.1720006429818938
+6,India,8,Rajasthan,2015-16,Lignite,9.492,11103.3
+7,India,8,Rajasthan,2016-17,Lignite,8.48,9815.1
+8,India,8,Rajasthan,2017-18,Lignite,9.294,13941.4
+9,India,8,Rajasthan,2018-19,Lignite,8.676,14499.2
+10,India,8,Rajasthan,2019-20,Lignite,8.223,13742.2
+11,India,9,Uttar Pradesh,2015-16,Coal,12.689,14028.1
+12,India,9,Uttar Pradesh,2016-17,Coal,16.056,19731.1
+13,India,9,Uttar Pradesh,2017-18,Coal,18.309,23827.2
+14,India,9,Uttar Pradesh,2018-19,Coal,20.275,26852.2
+15,India,9,Uttar Pradesh,2019-20,Coal,18.03,25063.5
+16,India,17,Meghalaya,2015-16,Coal,3.712,18634.2
+17,India,17,Meghalaya,2016-17,Coal,2.308,8585.4
+18,India,17,Meghalaya,2017-18,Coal,1.529,5687.7
+19,India,17,Meghalaya,2018-19,Coal,,
+20,India,17,Meghalaya,2019-20,Coal,,
+21,India,18,Assam,2015-16,Coal,0.487,1711.3
+22,India,18,Assam,2016-17,Coal,0.6,2231.9
+23,India,18,Assam,2017-18,Coal,0.781,4312.4
+24,India,18,Assam,2018-19,Coal,0.784,4312.4
+25,India,18,Assam,2019-20,Coal,0.517,1736.2
+26,India,19,West Bengal,2015-16,Coal,25.751,73255.4
+27,India,19,West Bengal,2016-17,Coal,27.667,72246.3
+28,India,19,West Bengal,2017-18,Coal,29.24,78220.9
+29,India,19,West Bengal,2018-19,Coal,33.136,105237.4
+30,India,19,West Bengal,2019-20,Coal,33.614,85069.8
+31,India,20,Jharkhand,2015-16,Coal,121.067,187369.9
+32,India,20,Jharkhand,2016-17,Coal,126.435,200571.5
+33,India,20,Jharkhand,2017-18,Coal,123.297,254292.4
+34,India,20,Jharkhand,2018-19,Coal,134.666,271051.4
+35,India,20,Jharkhand,2019-20,Coal,131.763,272123.7
+36,India,21,Odisha,2015-16,Coal,138.461,121010.1
+37,India,21,Odisha,2016-17,Coal,139.359,103882.9
+38,India,21,Odisha,2017-18,Coal,143.328,130037
+39,India,21,Odisha,2018-19,Coal,144.312,119110.9
+40,India,21,Odisha,2019-20,Coal,143.016,146624.3
+41,India,22,Chhattisgarh,2015-16,Coal,130.605,147436.8
+42,India,22,Chhattisgarh,2016-17,Coal,138.525,104427.5
+43,India,22,Chhattisgarh,2017-18,Coal,142.546,114808
+44,India,22,Chhattisgarh,2018-19,Coal,161.893,134351.9
+45,India,22,Chhattisgarh,2019-20,Coal,157.745,139234
+46,India,23,Madhya Pradesh,2015-16,Coal,107.714,132254.9
+47,India,23,Madhya Pradesh,2016-17,Coal,105.013,148372.8
+48,India,23,Madhya Pradesh,2017-18,Coal,112.127,174484.1
+49,India,23,Madhya Pradesh,2018-19,Coal,118.661,184713.4
+50,India,23,Madhya Pradesh,2019-20,Coal,125.726,195145.4
+51,India,24,Gujarat,2015-16,Lignite,10.123,14723.5
+52,India,24,Gujarat,2016-17,Lignite,10.546,13628.1
+53,India,24,Gujarat,2017-18,Lignite,13.781,17808.6
+54,India,24,Gujarat,2018-19,Lignite,12.565,11092
+55,India,24,Gujarat,2019-20,Lignite,10.357,9142.9
+56,India,27,Maharashtra,2015-16,Coal,38.351,65340.3
+57,India,27,Maharashtra,2016-17,Coal,40.559,64267.7
+58,India,27,Maharashtra,2017-18,Coal,42.219,70892.8
+59,India,27,Maharashtra,2018-19,Coal,49.818,80555.6
+60,India,27,Maharashtra,2019-20,Coal,54.746,93946.4
+61,India,33,Tamil Nadu,2015-16,Lignite,24.227,49168
+62,India,33,Tamil Nadu,2016-17,Lignite,26.204,51991.8
+63,India,33,Tamil Nadu,2017-18,Lignite,23.569,47666.8
+64,India,33,Tamil Nadu,2018-19,Lignite,23.041,42903.8
+65,India,33,Tamil Nadu,2019-20,Lignite,23.516,43788.3
+66,India,36,Telangana,2015-16,Coal,60.38,122753.5
+67,India,36,Telangana,2016-17,Coal,61.336,110294.2
+68,India,36,Telangana,2017-18,Coal,62.01,119131.3
+69,India,36,Telangana,2018-19,Coal,65.16,174938.4
+70,India,36,Telangana,2019-20,Coal,65.703,151074.6
+71,India,37,Ladakh,2015-16,Coal,0.0003164337845440018,0.67181326564726536
+72,India,37,Ladakh,2016-17,Coal,0.000243410603495386,0.51846458544517218
+73,India,37,Ladakh,2017-18,Coal,0.0003407748448935404,0.75700697687065046
+74,India,37,Ladakh,2018-19,Coal,0.0003164337845440018,0.62799935701809588
+75,India,37,Ladakh,2019-20,Coal,0.0003407748448935404,0.62799935701809588

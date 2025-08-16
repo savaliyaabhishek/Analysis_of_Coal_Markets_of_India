@@ -1,0 +1,101 @@
+Rowid,Country,State lgd code,State,Year,Coal type,Qualtity of coal produced
+1,India,1,Jammu And Kashmir,2015-16,Non-Coking Coal,0.012683566215455993
+2,India,1,Jammu And Kashmir,2016-17,Non-Coking Coal,0.00975658939650461
+3,India,1,Jammu And Kashmir,2017-18,Non-Coking Coal,0.013659225155106454
+4,India,1,Jammu And Kashmir,2018-19,Non-Coking Coal,0.012683566215455993
+5,India,1,Jammu And Kashmir,2019-20,Non-Coking Coal,0.013659225155106454
+6,India,8,Rajasthan,2015-16,Lignite,9.492
+7,India,8,Rajasthan,2016-17,Lignite,8.48
+8,India,8,Rajasthan,2017-18,Lignite,9.294
+9,India,8,Rajasthan,2018-19,Lignite,8.676
+10,India,8,Rajasthan,2019-20,Lignite,8.223
+11,India,9,Uttar Pradesh,2015-16,Non-Coking Coal,12.689
+12,India,9,Uttar Pradesh,2016-17,Non-Coking Coal,16.056
+13,India,9,Uttar Pradesh,2017-18,Non-Coking Coal,18.309
+14,India,9,Uttar Pradesh,2018-19,Non-Coking Coal,20.275
+15,India,9,Uttar Pradesh,2019-20,Non-Coking Coal,18.03
+16,India,12,Arunachal Pradesh,2015-16,Non-Coking Coal,0
+17,India,12,Arunachal Pradesh,2016-17,Non-Coking Coal,0
+18,India,12,Arunachal Pradesh,2017-18,Non-Coking Coal,0
+19,India,12,Arunachal Pradesh,2018-19,Non-Coking Coal,0
+20,India,12,Arunachal Pradesh,2019-20,Non-Coking Coal,0
+21,India,17,Meghalaya,2015-16,Non-Coking Coal,3.712
+22,India,17,Meghalaya,2016-17,Non-Coking Coal,2.308
+23,India,17,Meghalaya,2017-18,Non-Coking Coal,1.529
+24,India,17,Meghalaya,2018-19,Non-Coking Coal,0
+25,India,17,Meghalaya,2019-20,Non-Coking Coal,0
+26,India,18,Assam,2015-16,Non-Coking Coal,0.487
+27,India,18,Assam,2016-17,Non-Coking Coal,0.6
+28,India,18,Assam,2017-18,Non-Coking Coal,0.781
+29,India,18,Assam,2018-19,Non-Coking Coal,0.784
+30,India,18,Assam,2019-20,Non-Coking Coal,0.517
+31,India,19,West Bengal,2015-16,Coking Coal,1.995
+32,India,19,West Bengal,2015-16,Non-Coking Coal,23.756
+33,India,19,West Bengal,2016-17,Coking Coal,1.816
+34,India,19,West Bengal,2016-17,Non-Coking Coal,25.851
+35,India,19,West Bengal,2017-18,Coking Coal,1.018
+36,India,19,West Bengal,2017-18,Non-Coking Coal,28.222
+37,India,19,West Bengal,2018-19,Coking Coal,1.056
+38,India,19,West Bengal,2018-19,Non-Coking Coal,32.08
+39,India,19,West Bengal,2019-20,Coking Coal,0.144
+40,India,19,West Bengal,2019-20,Non-Coking Coal,33.47
+41,India,20,Jharkhand,2015-16,Coking Coal,58.548
+42,India,20,Jharkhand,2015-16,Non-Coking Coal,62.519
+43,India,20,Jharkhand,2016-17,Coking Coal,59.604
+44,India,20,Jharkhand,2016-17,Non-Coking Coal,66.831
+45,India,20,Jharkhand,2017-18,Coking Coal,38.768
+46,India,20,Jharkhand,2017-18,Non-Coking Coal,84.529
+47,India,20,Jharkhand,2018-19,Coking Coal,39.641
+48,India,20,Jharkhand,2018-19,Non-Coking Coal,95.025
+49,India,20,Jharkhand,2019-20,Coking Coal,52.364
+50,India,20,Jharkhand,2019-20,Non-Coking Coal,79.399
+51,India,21,Odisha,2015-16,Non-Coking Coal,138.461
+52,India,21,Odisha,2016-17,Non-Coking Coal,139.359
+53,India,21,Odisha,2017-18,Non-Coking Coal,143.328
+54,India,21,Odisha,2018-19,Non-Coking Coal,144.312
+55,India,21,Odisha,2019-20,Non-Coking Coal,143.016
+56,India,22,Chhattisgarh,2015-16,Coking Coal,0.135
+57,India,22,Chhattisgarh,2015-16,Non-Coking Coal,130.47
+58,India,22,Chhattisgarh,2016-17,Coking Coal,0.11
+59,India,22,Chhattisgarh,2016-17,Non-Coking Coal,138.415
+60,India,22,Chhattisgarh,2017-18,Coking Coal,0.182
+61,India,22,Chhattisgarh,2017-18,Non-Coking Coal,142.364
+62,India,22,Chhattisgarh,2018-19,Coking Coal,0.247
+63,India,22,Chhattisgarh,2018-19,Non-Coking Coal,161.646
+64,India,22,Chhattisgarh,2019-20,Coking Coal,0.25
+65,India,22,Chhattisgarh,2019-20,Non-Coking Coal,157.495
+66,India,23,Madhya Pradesh,2015-16,Coking Coal,0.209
+67,India,23,Madhya Pradesh,2015-16,Non-Coking Coal,107.505
+68,India,23,Madhya Pradesh,2016-17,Coking Coal,0.131
+69,India,23,Madhya Pradesh,2016-17,Non-Coking Coal,104.882
+70,India,23,Madhya Pradesh,2017-18,Coking Coal,0.18
+71,India,23,Madhya Pradesh,2017-18,Non-Coking Coal,111.947
+72,India,23,Madhya Pradesh,2018-19,Coking Coal,0.188
+73,India,23,Madhya Pradesh,2018-19,Non-Coking Coal,118.473
+74,India,23,Madhya Pradesh,2019-20,Coking Coal,0.178
+75,India,23,Madhya Pradesh,2019-20,Non-Coking Coal,125.548
+76,India,24,Gujarat,2015-16,Lignite,10.123
+77,India,24,Gujarat,2016-17,Lignite,10.546
+78,India,24,Gujarat,2017-18,Lignite,13.781
+79,India,24,Gujarat,2018-19,Lignite,12.566
+80,India,24,Gujarat,2019-20,Lignite,10.357
+81,India,27,Maharashtra,2015-16,Non-Coking Coal,38.351
+82,India,27,Maharashtra,2016-17,Non-Coking Coal,40.559
+83,India,27,Maharashtra,2017-18,Non-Coking Coal,42.219
+84,India,27,Maharashtra,2018-19,Non-Coking Coal,49.818
+85,India,27,Maharashtra,2019-20,Non-Coking Coal,54.746
+86,India,33,Tamil Nadu,2015-16,Lignite,24.227
+87,India,33,Tamil Nadu,2016-17,Lignite,26.204
+88,India,33,Tamil Nadu,2017-18,Lignite,23.569
+89,India,33,Tamil Nadu,2018-19,Lignite,23.041
+90,India,33,Tamil Nadu,2019-20,Lignite,23.516
+91,India,36,Telangana,2015-16,Non-Coking Coal,60.38
+92,India,36,Telangana,2016-17,Non-Coking Coal,61.336
+93,India,36,Telangana,2017-18,Non-Coking Coal,62.01
+94,India,36,Telangana,2018-19,Non-Coking Coal,65.16
+95,India,36,Telangana,2019-20,Non-Coking Coal,65.703
+96,India,37,Ladakh,2015-16,Non-Coking Coal,0.0003164337845440018
+97,India,37,Ladakh,2016-17,Non-Coking Coal,0.000243410603495386
+98,India,37,Ladakh,2017-18,Non-Coking Coal,0.0003407748448935404
+99,India,37,Ladakh,2018-19,Non-Coking Coal,0.0003164337845440018
+100,India,37,Ladakh,2019-20,Non-Coking Coal,0.0003407748448935404
